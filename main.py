@@ -13,3 +13,4 @@ try:
   print(f"Parabéns, você acertou em {tentativa} tentativas!") 
 except:
  print("Entrada não é valida")
+  '''pegar o nome do jogador, salvar a pontuação e jogar denovo, se for o mesmo, salva a resposta'''
